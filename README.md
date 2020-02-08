@@ -1,2 +1,0 @@
-# SimpleStepperTemplate
-Created with CodeSandbox
